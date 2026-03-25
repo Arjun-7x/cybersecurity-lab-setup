@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### 🧪 DVWA Interface
-![DVWA](/dvwa.png)
+![DVWA](/dvwa)
 
 ### ⚔️ Command execution Success
 ![Command Injection](/Command-execution.png)
