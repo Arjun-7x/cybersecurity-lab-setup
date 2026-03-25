@@ -1,2 +1,2 @@
 # cybersecurity-lab-setup
-I created my own pentesting lab setup to simulate real-world attacks and get hands on Practice
+Built a personal penetration testing lab to simulate real-world attack scenarios and gain hands-on experience in vulnerability assessment and exploitation.
