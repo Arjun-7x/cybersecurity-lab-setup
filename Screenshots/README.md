@@ -7,7 +7,7 @@
 ![Command Injection](/Command-execution.png)
 
 ### 🌐 Nmap Scan
-![Nmap](/nmap.png)
+![Nmap](Screenshots/nmap.png)
 
 ### 🛠️ Lab-Architecture
 ![Lab-Architecture](/Lab-Architecture.png)
