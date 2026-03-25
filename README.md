@@ -37,7 +37,7 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 [⚒️View Lab-Architecture](Screenshots/Lab-Architecture.png)<br>
 [👁️View Nmap-scan](Screenshots/Nmap-scan.png)<br>
 [🤺View DVWA Screenshot](Screenshots/DVWA.png)<br>
-[🗡️View DVWA Screenshot](Screenshots/Command-execution.png)
+[🗡️View Command Execution](Screenshots/Command-execution.png)
 
 ## 🧠 Skills Demonstrated
 - Vulnerability Analysis
