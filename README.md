@@ -8,7 +8,6 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 ## 🧰 Tools & Platforms
 - Kali Linux
 - Metasploitable 2
-- Windows 7 / 10
 - VirtualBox
 - DVWA (Damn Vulnerable Web App)
 
@@ -21,7 +20,6 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 - Host Machine → VirtualBox
 - Kali Linux (Attacker)
 - Metasploitable 2 (Target)
-- Windows (Optional Target)
 
 ## 🚀 Labs Covered
 - DVWA Setup & Configuration
