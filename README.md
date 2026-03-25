@@ -34,7 +34,7 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 - Basic Exploitation
 
 ## 📸 Screenshots
-<img width="1920" height="1083" alt="nmap" src="https://github.com/user-attachments/assets/424c136e-4b99-4775-b0db-7cbd85430267" />
+[![DVWA Screenshot](cybersecurity-lab-setup/Screenshots/DVWA.png)](cybersecurity-lab-setup/Screenshots/DVWA.png)
 <img width="1920" height="1083" alt="dvwa" src="https://github.com/user-attachments/assets/e7d04059-1c5c-4f16-ad58-35e0f3a3af26" />
 <img width="1920" height="1083" alt="Command execution" src="https://github.com/user-attachments/assets/e4fea29b-c018-4eaa-b000-059d97949630" />
 <img width="710" height="405" alt="vm" src="https://github.com/user-attachments/assets/62554eae-f984-4332-99c4-6a03c9b18736" />
