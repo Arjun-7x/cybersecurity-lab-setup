@@ -28,7 +28,30 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 - Basic Exploitation
 
 ## 📸 Screenshots
-(attach images here)
+
+## ⚔️ Labs Performed
+- DVWA Setup & Configuration
+- Command Injection Testing
+- Network Scanning using Nmap
+- Basic Exploitation
+
+## 📸 Screenshots
+<img width="1920" height="1083" alt="nmap" src="https://github.com/user-attachments/assets/424c136e-4b99-4775-b0db-7cbd85430267" />
+<img width="1920" height="1083" alt="dvwa" src="https://github.com/user-attachments/assets/e7d04059-1c5c-4f16-ad58-35e0f3a3af26" />
+<img width="1920" height="1083" alt="Command execution" src="https://github.com/user-attachments/assets/e4fea29b-c018-4eaa-b000-059d97949630" />
+<img width="710" height="405" alt="vm" src="https://github.com/user-attachments/assets/62554eae-f984-4332-99c4-6a03c9b18736" />
+
+
+## 🧠 Skills Demonstrated
+- Vulnerability Analysis
+- Web Application Testing
+- Network Scanning
+- Basic Exploitation
+
+## 🚀 Future Improvements
+- Add OWASP Juice Shop
+- Perform advanced web attacks (XSS, SQL Injection)
+- Document detailed attack writeups
 
 ## ⚠️ Disclaimer
 This lab is created for educational purposes only. Do not use these techniques on unauthorized systems.
