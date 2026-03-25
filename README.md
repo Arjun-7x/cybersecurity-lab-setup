@@ -27,8 +27,6 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 - Network Scanning (Nmap)
 - Basic Exploitation
 
-## 📸 Screenshots
-
 ## ⚔️ Labs Performed
 - DVWA Setup & Configuration
 - Command Injection Testing
