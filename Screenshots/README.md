@@ -1,13 +1,13 @@
 ## 📸 Screenshots
 
 ### 🧪 DVWA Interface
-![DVWA](Screenshots/dvwa.png)
+![DVWA](/dvwa.png)
 
 ### ⚔️ Command execution Success
-![Command Injection](Screenshots/Command-execution.png)
+![Command Injection](/Command-execution.png)
 
 ### 🌐 Nmap Scan
-![Nmap](Screenshots/nmap.png)
+![Nmap](/nmap.png)
 
 ### 🛠️ Lab-Architecture
-![Lab-Architecture](Screenshots/Lab-Architecture.png)
+![Lab-Architecture](/Lab-Architecture.png)
