@@ -34,10 +34,10 @@ This project documents my hands-on cybersecurity lab built using virtual machine
 - Basic Exploitation
 
 ## 📸 Screenshots
-[⚒️View Lab-Architecture](Screenshots/Lab-Architecture.png)<br>
-[👁️View Nmap-scan](Screenshots/Nmap-scan.png)<br>
-[🤺View DVWA Screenshot](Screenshots/DVWA.png)<br>
-[🗡️View Command Execution](Screenshots/Command-execution.png)
+[⚒️View Lab-Architecture](4_Screenshots/Lab-Architecture.png)<br>
+[👁️View Nmap-scan](4_Screenshots/Nmap-scan.png)<br>
+[🤺View DVWA Screenshot](4_Screenshots/DVWA.png)<br>
+[🗡️View Command Execution](4_Screenshots/Command-execution.png)
 
 ## 🧠 Skills Demonstrated
 - Vulnerability Analysis
